@@ -1,0 +1,14 @@
+C:\Users\shiraz.aslam\source\repos\RobotWars\RobotWars\bin\Debug\netcoreapp3.1\RobotWars.exe
+C:\Users\shiraz.aslam\source\repos\RobotWars\RobotWars\bin\Debug\netcoreapp3.1\RobotWars.deps.json
+C:\Users\shiraz.aslam\source\repos\RobotWars\RobotWars\bin\Debug\netcoreapp3.1\RobotWars.runtimeconfig.json
+C:\Users\shiraz.aslam\source\repos\RobotWars\RobotWars\bin\Debug\netcoreapp3.1\RobotWars.runtimeconfig.dev.json
+C:\Users\shiraz.aslam\source\repos\RobotWars\RobotWars\bin\Debug\netcoreapp3.1\RobotWars.dll
+C:\Users\shiraz.aslam\source\repos\RobotWars\RobotWars\bin\Debug\netcoreapp3.1\RobotWars.pdb
+C:\Users\shiraz.aslam\source\repos\RobotWars\RobotWars\obj\Debug\netcoreapp3.1\RobotWars.csproj.AssemblyReference.cache
+C:\Users\shiraz.aslam\source\repos\RobotWars\RobotWars\obj\Debug\netcoreapp3.1\RobotWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiraz.aslam\source\repos\RobotWars\RobotWars\obj\Debug\netcoreapp3.1\RobotWars.AssemblyInfoInputs.cache
+C:\Users\shiraz.aslam\source\repos\RobotWars\RobotWars\obj\Debug\netcoreapp3.1\RobotWars.AssemblyInfo.cs
+C:\Users\shiraz.aslam\source\repos\RobotWars\RobotWars\obj\Debug\netcoreapp3.1\RobotWars.csproj.CoreCompileInputs.cache
+C:\Users\shiraz.aslam\source\repos\RobotWars\RobotWars\obj\Debug\netcoreapp3.1\RobotWars.dll
+C:\Users\shiraz.aslam\source\repos\RobotWars\RobotWars\obj\Debug\netcoreapp3.1\RobotWars.pdb
+C:\Users\shiraz.aslam\source\repos\RobotWars\RobotWars\obj\Debug\netcoreapp3.1\RobotWars.genruntimeconfig.cache
